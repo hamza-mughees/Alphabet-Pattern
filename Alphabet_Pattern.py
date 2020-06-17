@@ -1,7 +1,7 @@
 def print_pattern(size):
   if size < 1 or size > 26:
     print("Invalid input")
-    return
+    return None
   alph = "".join([chr(97+i) for i in range(size)])
   l = []
   for i in range(size):
