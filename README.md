@@ -1,4 +1,7 @@
-# Alphabet-Pattern
+# Alphabet Pattern
+
+[![Run on Repl.it](https://repl.it/badge/github/hamza-mughees/Alphabet-Pattern)](https://repl.it/github/hamza-mughees/Alphabet-Pattern)
+
 This code produces and prints a pattern for an input between 1 and 26 inclusive, corresponding to the letters of the alphabet.
 
 For the given inputs, the following patterns are formed:
